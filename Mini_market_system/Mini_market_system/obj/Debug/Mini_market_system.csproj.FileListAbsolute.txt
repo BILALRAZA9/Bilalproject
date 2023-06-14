@@ -1,0 +1,50 @@
+c:\users\user\documents\visual studio 2015\Projects\Mini_market_system\Mini_market_system\bin\Debug\Mini_market_system.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Mini_market_system\Mini_market_system\bin\Debug\Mini_market_system.exe
+c:\users\user\documents\visual studio 2015\Projects\Mini_market_system\Mini_market_system\bin\Debug\Mini_market_system.pdb
+c:\users\user\documents\visual studio 2015\Projects\Mini_market_system\Mini_market_system\bin\Debug\Guna.UI2.dll
+c:\users\user\documents\visual studio 2015\Projects\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.exe
+c:\users\user\documents\visual studio 2015\Projects\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Mini_market_system\Mini_market_system\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\User\documents\visual studio 2015\Projects\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.LoginForm.resources
+C:\Users\User\documents\visual studio 2015\Projects\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.start.resources
+C:\Users\User\documents\visual studio 2015\Projects\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.CATEGORY.resources
+C:\Users\User\documents\visual studio 2015\Projects\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.Product.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.SELLER.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.SELLINGFORM.resources
+F:\Visual studios projects\Mini_market_system\Mini_market_system\bin\Debug\Mini_market_system.exe.config
+F:\Visual studios projects\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.exe
+F:\Visual studios projects\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.pdb
+F:\Visual studios projects\Mini_market_system\Mini_market_system\bin\Debug\Mini_market_system.exe
+F:\Visual studios projects\Mini_market_system\Mini_market_system\bin\Debug\Mini_market_system.pdb
+F:\Visual studios projects\Mini_market_system\Mini_market_system\bin\Debug\Guna.Charts.WinForms.dll
+F:\Visual studios projects\Mini_market_system\Mini_market_system\bin\Debug\Guna.UI2.dll
+F:\Visual studios projects\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.csprojResolveAssemblyReference.cache
+F:\Visual studios projects\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.CATEGORY.resources
+F:\Visual studios projects\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.LoginForm.resources
+F:\Visual studios projects\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.Product.resources
+F:\Visual studios projects\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.Properties.Resources.resources
+F:\Visual studios projects\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.SELLER.resources
+F:\Visual studios projects\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.SELLINGFORM.resources
+F:\Visual studios projects\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.start.resources
+F:\Visual studios projects\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.csproj.GenerateResource.Cache
+F:\Visual studios projects\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.usersf.resources
+F:\Mini_market_system\Mini_market_system\bin\Debug\Mini_market_system.exe.config
+F:\Mini_market_system\Mini_market_system\bin\Debug\Mini_market_system.exe
+F:\Mini_market_system\Mini_market_system\bin\Debug\Mini_market_system.pdb
+F:\Mini_market_system\Mini_market_system\bin\Debug\Guna.Charts.WinForms.dll
+F:\Mini_market_system\Mini_market_system\bin\Debug\Guna.UI2.dll
+F:\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.csprojResolveAssemblyReference.cache
+F:\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.CATEGORY.resources
+F:\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.LoginForm.resources
+F:\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.Product.resources
+F:\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.Properties.Resources.resources
+F:\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.SELLER.resources
+F:\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.SELLINGFORM.resources
+F:\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.start.resources
+F:\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.usersf.resources
+F:\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.csproj.GenerateResource.Cache
+F:\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.exe
+F:\Mini_market_system\Mini_market_system\obj\Debug\Mini_market_system.pdb
